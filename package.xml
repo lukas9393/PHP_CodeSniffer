@@ -222,6 +222,7 @@ http://pear.php.net/dtd/package-2.0.xsd">
      <file baseinstalldir="PHP/CodeSniffer" name="Cbf.php" role="php" />
      <file baseinstalldir="PHP/CodeSniffer" name="Checkstyle.php" role="php" />
      <file baseinstalldir="PHP/CodeSniffer" name="Code.php" role="php" />
+     <file baseinstalldir="PHP/CodeSniffer" name="Codeclimate.php" role="php" />
      <file baseinstalldir="PHP/CodeSniffer" name="Csv.php" role="php" />
      <file baseinstalldir="PHP/CodeSniffer" name="Diff.php" role="php" />
      <file baseinstalldir="PHP/CodeSniffer" name="Emacs.php" role="php" />
